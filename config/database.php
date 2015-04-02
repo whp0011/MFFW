@@ -3,7 +3,6 @@
  * File name: database.php
  * Desc:
  * Author: hp
- * E-mail: wanghaiping@lecai.com
  * Date Time: 2015/4/1 16:04
  */
 return [

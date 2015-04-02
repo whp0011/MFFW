@@ -3,7 +3,6 @@
  * File name: routes.php
  * Desc: 
  * Author: hp 
- * E-mail: wanghaiping@lecai.com
  * Date Time: 2015/4/1 14:48
  */
 use NoahBuscher\Macaw\Macaw as Route;

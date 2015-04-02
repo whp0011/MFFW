@@ -3,7 +3,6 @@
  * File name: index.php
  * Desc:
  * Author: hp
- * E-mail: wanghaiping@lecai.com
  * Date Time: 2015/4/1 14:47
  */
 use Illuminate\Database\Capsule\Manager as Capsule;
