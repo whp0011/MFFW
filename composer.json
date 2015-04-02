@@ -1,0 +1,28 @@
+{
+  "name": "hp/mffw",
+  "description": "hp my first php framework",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "wanghaiping",
+      "email": "wanghaiping@163.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "codingbean/macaw": "dev-master",
+    "illuminate/database": "~5.1@dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "MFFW\\": "app/"
+    }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "http://pkg.phpcomposer.com/repo/packagist/"
+    },
+    {"packagist": false}
+  ]
+}
